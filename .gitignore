@@ -1,0 +1,10 @@
+__pycache__
+*.so
+*.pyc
+target
+venv
+.venv
+*.so
+*.dll
+*.pyd
+
